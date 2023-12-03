@@ -22,3 +22,4 @@ Thumbs.db
 # Optional: Logs and test output
 logs/
 test-results/
+.vercel
