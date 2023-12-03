@@ -33,7 +33,6 @@ const storage = multer.diskStorage({
 });
 
 // Create a multer instance and specify the storage configuration
-// const upload = multer({ storage: storage });
 const upload = multer({
   storage,
   fileFilter: (req, file, cb) => {
