@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# npm
+*.log
+*.lock
+*.lck
+*.out
+*.mp4
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: Logs and test output
+logs/
+test-results/
+uploads/
